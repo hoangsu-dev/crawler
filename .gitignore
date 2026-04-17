@@ -1,0 +1,11 @@
+# Environment variables (contains credentials)
+.env
+
+# Crawler data
+snapshots.json
+crawler.log
+
+# Python virtual environment
+venv/
+__pycache__/
+*.pyc
