@@ -3,6 +3,8 @@
 
 # Crawler data
 snapshots.json
+snapshots.db
+snapshots.db-journal
 crawler.log
 
 # Python virtual environment
